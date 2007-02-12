@@ -1,5 +1,5 @@
 Summary:	PulseAudio output plugin for XMMS
-Summary(pl.UTF-8):   Wtyczka wyjściowa PulseAudio dla XMMS-a
+Summary(pl.UTF-8):	Wtyczka wyjściowa PulseAudio dla XMMS-a
 Name:		xmms-output-pulse
 Version:	0.9.3
 Release:	1
