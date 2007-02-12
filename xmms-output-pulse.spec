@@ -1,5 +1,5 @@
 Summary:	PulseAudio output plugin for XMMS
-Summary(pl):	Wtyczka wyj∂ciowa PulseAudio dla XMMS-a
+Summary(pl.UTF-8):   Wtyczka wyj≈õciowa PulseAudio dla XMMS-a
 Name:		xmms-output-pulse
 Version:	0.9.3
 Release:	1
@@ -19,8 +19,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 XMMS output plugin for the PulseAudio sound server.
 
-%description -l pl
-Wtyczka wyj∂ciowa XMMS-a dla serwera dºwiÍku PulseAudio.
+%description -l pl.UTF-8
+Wtyczka wyj≈õciowa XMMS-a dla serwera d≈∫wiƒôku PulseAudio.
 
 %prep
 %setup -q -n xmms-pulse-%{version}
