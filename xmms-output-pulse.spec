@@ -1,13 +1,13 @@
 #
 # Conditional build:
-%bcond_without	bmp	# BMP plugin
+%bcond_with	bmp	# BMP plugin
 %bcond_without	xmms	# XMMS plugin
 #
 Summary:	PulseAudio output plugin for XMMS
 Summary(pl.UTF-8):	Wtyczka wyjściowa PulseAudio dla XMMS-a
 Name:		xmms-output-pulse
 Version:	0.9.4
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		X11/Applications/Sound
 Source0:	http://0pointer.de/lennart/projects/xmms-pulse/xmms-pulse-%{version}.tar.gz
